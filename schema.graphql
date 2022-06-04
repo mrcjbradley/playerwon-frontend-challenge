@@ -777,7 +777,7 @@ union AuditEntryActor = Bot | Organization | User
 """
 Ordering options for Audit Log connections.
 """
-input AuditLogOrder { 
+input AuditLogOrder {
   """
   The field to order Audit Logs by.
   """
@@ -26372,6 +26372,10 @@ type Repository implements Node & ProjectOwner & RegistryPackageOwner & Registry
   diskUsage: Int
 
   """
+  Returns how many stargazers there are of this repository in the whole network.
+  """
+  stargazerCount: Int!
+  """
   Returns how many forks there are of this repository in the whole network.
   """
   forkCount: Int!
@@ -35302,6 +35306,10 @@ type User implements Node & Actor & RegistryPackageOwner & RegistryPackageSearch
   A URL pointing to the user's public website/blog.
   """
   websiteUrl: URI
+  """
+  The user's twitter username.
+  """
+  twitterUsername: String
 }
 
 """
