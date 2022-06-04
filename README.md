@@ -57,7 +57,8 @@ Please submit your code and presentation either through a GitHub repository or o
 - The project should take stylistic inspiration from the media in the design section below, but does not need to be a pixel perfect implementation.
 
 ## Design
-[!final preview](./final-preview.png)
+  
+[[!final preview]([./final-preview.png](https://github.com/mrcjbradley/playerwon-frontend-challenge/blob/main/final-preview.png?raw=true))](https://github.com/mrcjbradley/playerwon-frontend-challenge/blob/main/final-preview.png?raw=true)
 [!final video](./final-video.mov)
 
 ## Helpful Resources
