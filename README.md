@@ -57,7 +57,8 @@ Please submit your code and presentation either through a GitHub repository or o
 - The project should take stylistic inspiration from the media in the design section below, but does not need to be a pixel perfect implementation.
 
 ## Design
-    
+[!final preview](./final-preview.png)
+[!final video](./final-video.mov)
 
 ## Helpful Resources
 - (Online GitHub GraphQL Explorer)[https://docs.github.com/en/graphql/overview/explorer]
