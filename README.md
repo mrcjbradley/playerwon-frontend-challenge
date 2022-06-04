@@ -59,6 +59,7 @@ Please submit your code and presentation either through a GitHub repository or o
 ## Design
   
 <img src="https://github.com/mrcjbradley/playerwon-frontend-challenge/blob/main/final-preview.png?raw=true)"/>
+<img src="https://github.com/mrcjbradley/playerwon-frontend-challenge/blob/main/final-video.gif?raw=true)"/>
 
   
 
