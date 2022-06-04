@@ -58,8 +58,9 @@ Please submit your code and presentation either through a GitHub repository or o
 
 ## Design
   
-[[!final preview]([./final-preview.png](https://github.com/mrcjbradley/playerwon-frontend-challenge/blob/main/final-preview.png?raw=true))](https://github.com/mrcjbradley/playerwon-frontend-challenge/blob/main/final-preview.png?raw=true)
-[!final video](./final-video.mov)
+<img src="https://github.com/mrcjbradley/playerwon-frontend-challenge/blob/main/final-preview.png?raw=true)"/>
+
+  
 
 ## Helpful Resources
 - (Online GitHub GraphQL Explorer)[https://docs.github.com/en/graphql/overview/explorer]
