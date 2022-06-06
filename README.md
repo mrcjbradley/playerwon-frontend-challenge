@@ -17,7 +17,7 @@ Please submit your code and presentation either through a GitHub repository or o
 ## Set Up
 1. make sure you have yarn installed.
   - if not, run `npm install --global yarn`.
-2. Clone or Fork this repo.
+2. create a new repo by clicking `use this template`.
 3. `cd` into the cloned directory.
 4. Run `yarn` to install dependencies.
 5. Configure GitHub GraphQL Authentication:
