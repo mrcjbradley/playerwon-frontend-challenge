@@ -64,7 +64,7 @@ Please submit your code and presentation either through a GitHub repository or o
   
 
 ## Helpful Resources
-- (Online GitHub GraphQL Explorer)[https://docs.github.com/en/graphql/overview/explorer]
-- (Local GitHub GraphQL Explorer)[https://docs.github.com/en/graphql/guides/using-the-explorer]
-- (Relay getting started guide)[https://relay.dev/docs/getting-started/step-by-step-guide/]
+- [Online GitHub GraphQL Explorer](https://docs.github.com/en/graphql/overview/explorer)
+- [Local GitHub GraphQL Explorer](https://docs.github.com/en/graphql/guides/using-the-explorer)
+- [Relay getting started guide](https://relay.dev/docs/getting-started/step-by-step-guide/)
   - This repo was created following this guide with slight variations to accommodate typescript.
